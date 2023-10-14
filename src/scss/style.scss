@@ -1,0 +1,41 @@
+// null default styles
+@import "null";
+
+// load fonts
+@import "fonts";
+
+//load variables
+@import "common/variables";
+
+// load mixins
+@import "mixins";
+
+// load swiper
+@import "../../node_modules/swiper/swiper";
+
+// load common
+@import "common/common";
+
+// load header
+@import "common/header";
+
+// load footer
+@import "common/footer";
+
+// load footer
+@import "common/menu";
+
+// load side fixed
+@import "common/side-fixed";
+
+// load error 404
+@import "common/404";
+
+// load hero
+@import "common/animations";
+
+// load ticker
+@import "common/ticker";
+
+// load hero
+@import "parts/hero";
